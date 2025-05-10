@@ -134,7 +134,7 @@ I believe in learning by doing. Here are some of the projects I've worked on:
     *   **Description:** A modern, real-time chat application aimed at facilitating instant communication, similar to platforms like Messenger or Slack.
     *   **Planned Features:** User account management, contact discovery, one-on-one & group messaging, user presence indicators (online/offline), typing indicators, and potential for rich media sharing.
     *   **Learning Goals:** Deepen understanding of WebSockets, real-time data synchronization, and scalable backend architectures for communication platforms.
-    *   **Prospective Tech Stack:** `FastAPI` / `Node.js (Express/Socket.IO)`, `ReactJS`, `MongoDB` / `Cassandra`, `Redis`.
+    *   **Prospective Tech Stack:** `Django`, `ReactJS`, `Cassandra`, `Redis`.
     *   🔗 **GitHub:** [Link to Chat App GitHub Repo - *when you start it*]
 
 ---
