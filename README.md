@@ -114,7 +114,7 @@ Here's a glimpse of the technologies I work with and am continuously mastering:
     *   Spearheaded the development of an innovative **Multi-modal Video Retrieval System** (text, image, audio queries).
     *   Engineered the system leveraging cutting-edge deep learning models and high-performance vector databases (including Milvus) to ensure rapid and precise content-based video search.
     *   Developed a responsive user interface and robust backend API support for the competition using **ReactJS** and **FastAPI**.
-    *   🔗 _Repository link for AI Challenge project will be shared soon._
+    *   🔗 https://github.com/trandiepp2105/AIC-2024
 
 ---
 
