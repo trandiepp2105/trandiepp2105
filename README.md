@@ -122,15 +122,15 @@ Here's a glimpse of the technologies I work with and am continuously mastering:
 
 I believe in learning by doing. Here are some of the projects I've worked on:
 
-1.  **🛍️ OmniFashion - E-commerce Platform**
+1.  **🛍️ Viberstore - E-commerce Platform**
     *   **Description:** A comprehensive full-stack web application designed to provide a seamless online shopping experience for fashion enthusiasts.
     *   **Key Features:** Secure user registration & authentication (OTP verification), dynamic product catalog with advanced search & filtering (Elasticsearch), intuitive shopping cart, streamlined order processing, integrated online payment gateway (VNPay), and a dedicated admin panel for store management.
     *   **My Role:** Full-stack development, from database design and API development to frontend implementation and cloud deployment.
     *   **Tech Stack:** `Django`, `ReactJS`, `MySQL`, `Redis`, `Elasticsearch`, `Docker`, `Microsoft Azure`.
-    *   🔗 **GitHub:** [Link to your Fashion E-commerce GitHub Repo]
+    *   🔗 **GitHub:** [https://github.com/trandiepp2105/viberstore]
     *   🌐 **Live Demo:** [Link to your live demo, e.g., http://20.198.225.85]
 
-2.  **💬 ConnectSphere - Real-Time Messaging App** (*Conceptual Project - In Progress/Planned*)
+2.  **💬 Viberchat - Real-Time Messaging App** (*Conceptual Project - In Progress/Planned*)
     *   **Description:** A modern, real-time chat application aimed at facilitating instant communication, similar to platforms like Messenger or Slack.
     *   **Planned Features:** User account management, contact discovery, one-on-one & group messaging, user presence indicators (online/offline), typing indicators, and potential for rich media sharing.
     *   **Learning Goals:** Deepen understanding of WebSockets, real-time data synchronization, and scalable backend architectures for communication platforms.
