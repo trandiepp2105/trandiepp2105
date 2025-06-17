@@ -128,7 +128,7 @@ I believe in learning by doing. Here are some of the projects I've worked on:
     *   **My Role:** Full-stack development, from database design and API development to frontend implementation and cloud deployment.
     *   **Tech Stack:** `Django`, `ReactJS`, `MySQL`, `Redis`, `Elasticsearch`, `Docker`, `Microsoft Azure`.
     *   🔗 **GitHub:** [https://github.com/trandiepp2105/viberstore]
-    *   🌐 **Live Demo:** [Link to your live demo, e.g., http://20.198.225.85]
+    *   🌐 **Live Demo:** [Link to your live demo, e.g., http://4.241.129.97:8081]
 
 2.  **💬 Viberchat - Real-Time Messaging App** (*Conceptual Project - In Progress/Planned*)
     *   **Description:** A modern, real-time chat application aimed at facilitating instant communication, similar to platforms like Messenger or Slack.
