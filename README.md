@@ -130,12 +130,12 @@ I believe in learning by doing. Here are some of the projects I've worked on:
     *   🔗 **GitHub:** [https://github.com/trandiepp2105/viberstore]
     *   🌐 **Live Demo:** [Link to your live demo, e.g., http://4.241.129.97:8081]
 
-2.  **💬 Viberchat - Real-Time Messaging App** (*Conceptual Project - In Progress/Planned*)
-    *   **Description:** A modern, real-time chat application aimed at facilitating instant communication, similar to platforms like Messenger or Slack.
-    *   **Planned Features:** User account management, contact discovery, one-on-one & group messaging, user presence indicators (online/offline), typing indicators, and potential for rich media sharing.
-    *   **Learning Goals:** Deepen understanding of WebSockets, real-time data synchronization, and scalable backend architectures for communication platforms.
-    *   **Prospective Tech Stack:** `Django`, `ReactJS`, `Cassandra`, `Redis`.
-    *   🔗 **GitHub:** [Link to Chat App GitHub Repo - *when you start it*]
+2.  **💬 ViberFilm - ViberFilm - Free Movie Streaming Website**
+    *   **Description:** ViberFilm is a simple and lightweight full-stack video streaming platform that allows users to browse and watch movies and TV series for free.
+    *   **Planned Features:** Displays the most viewed movies and series in recent days. Find movies or TV shows by title. Uses HLS (HTTP Live Streaming) for smooth playback across devices and varying network speeds.
+    *   **Learning Goals:** Deepen understanding of HTTP Live Streaming (HLS) in real-world deployments, including segmenting video streams, managing adaptive bitrate delivery, optimizing FFmpeg workflows, and synchronizing HLS with frontend playback in a multi-user real-time environment.
+    *   **Prospective Tech Stack:** `Django`, `ReactJS`, `Redis`, 'MySQL'.
+    *   🔗 **GitHub:** [https://github.com/trandiepp2105/viberfilm]
 
 ---
 
