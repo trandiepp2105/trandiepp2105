@@ -122,20 +122,29 @@ Here's a glimpse of the technologies I work with and am continuously mastering:
 
 I believe in learning by doing. Here are some of the projects I've worked on:
 
-1.  **🛍️ Viberstore - E-commerce Platform**
-    *   **Description:** A comprehensive full-stack web application designed to provide a seamless online shopping experience for fashion enthusiasts.
-    *   **Key Features:** Secure user registration & authentication (OTP verification), dynamic product catalog with advanced search & filtering (Elasticsearch), intuitive shopping cart, streamlined order processing, integrated online payment gateway (VNPay), and a dedicated admin panel for store management.
-    *   **My Role:** Full-stack development, from database design and API development to frontend implementation and cloud deployment.
-    *   **Tech Stack:** `Django`, `ReactJS`, `MySQL`, `Redis`, `Elasticsearch`, `Docker`, `Microsoft Azure`.
-    *   🔗 **GitHub:** [https://github.com/trandiepp2105/viberstore]
-    *   🌐 **Live Demo:** [Link to your live demo, e.g., http://4.241.129.97:8081]
+1. **🛍️ Viberstore - E-commerce Platform**
+   * **Description:** A comprehensive full-stack web application designed to provide a seamless online shopping experience for fashion enthusiasts.
+   * **Key Features:** Secure user registration & authentication (OTP verification), dynamic product catalog with advanced search & filtering (Elasticsearch), intuitive shopping cart, streamlined order processing, integrated online payment gateway (VNPay), and a dedicated admin panel for store management.
+   * **My Role:** Full-stack development, from database design and API development to frontend implementation and cloud deployment.
+   * **Tech Stack:** `Django`, `ReactJS`, `MySQL`, `Redis`, `Elasticsearch`, `Docker`, `Microsoft Azure`
+   * 🔗 **GitHub:** [https://github.com/trandiepp2105/viberstore](https://github.com/trandiepp2105/viberstore)
+   * 🌐 **Live Demo:** [Link to your live demo, e.g., http://4.241.129.97:8081]
 
-2.  ** ViberFilm - Free Movie Streaming Website**
-    *   **Description:** ViberFilm is a simple and lightweight full-stack video streaming platform that allows users to browse and watch movies and TV series for free.
-    *   **Planned Features:** Displays the most viewed movies and series in recent days. Find movies or TV shows by title. Uses HLS (HTTP Live Streaming) for smooth playback across devices and varying network speeds.
-    *   **Learning Goals:** Deepen understanding of HTTP Live Streaming (HLS) in real-world deployments, including segmenting video streams, managing adaptive bitrate delivery, optimizing FFmpeg workflows, and synchronizing HLS with frontend playback in a multi-user real-time environment.
-    *   **Prospective Tech Stack:** `Django`, `ReactJS`, `Redis`, 'MySQL'.
-    *   🔗 **GitHub:** [https://github.com/trandiepp2105/viberfilm]
+2. **🎬 ViberChill - Free Movie Streaming Platform**
+   * **Description:** ViberChill is a full-stack movie streaming platform that allows users to browse and watch movies and TV series through a responsive web interface with smooth HLS playback.
+   * **Key Features:** Real-time search suggestions, filtering by genre/country/year/type, movie detail pages, episode-based watch pages, OTP-based authentication, comments and favorites, URL-based pagination, and Meilisearch-powered search with SQL fallback.
+   * **Learning Goals:** Deepen understanding of HTTP Live Streaming (HLS) in real-world deployments, including segmenting video streams, adaptive delivery, FFmpeg-based media workflows, backend search integration, and frontend playback synchronization.
+   * **Tech Stack:** `Django REST Framework`, `ReactJS`, `MySQL`, `Redis`, `Meilisearch`, `Docker`, `Docker Compose`, `Nginx`
+   * 🔗 **GitHub:** [https://github.com/trandiepp2105/viberchill](https://github.com/trandiepp2105/viberchill)
+
+3. **🔍 Lucifer Trace - Tracing / Observability Project**
+   * **Description:** Lucifer Trace is an observability-focused project built to explore request tracing, service monitoring, and system-level insight across distributed application flows.
+   * **Key Features:** Request tracing, latency inspection, service flow visibility, debugging support for multi-service communication, and trace-oriented monitoring for backend systems.
+   * **Learning Goals:** Strengthen understanding of distributed tracing, telemetry collection, request lifecycle analysis, and performance debugging in service-oriented systems.
+   * **Tech Stack:** `Python`, `Docker`, `Backend Services`, `Tracing/Observability Tooling`
+   * 🔗 **GitHub:** [https://github.com/trandiepp2105/lucifer-trace](https://github.com/trandiepp2105/lucifer-trace)
+
+---
 
 ---
 
