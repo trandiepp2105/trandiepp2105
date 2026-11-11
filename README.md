@@ -5,9 +5,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7q/giphy.gif" width="30px"/>
   </h1>
   <p>
-    A passionate and driven third-year Electronics and Telecommunications student at the <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science, VNU-HCM</a>,
-    with a profound interest and self-driven expertise in Full-Stack Web Development.
-    I thrive on transforming complex problems into elegant and efficient digital solutions.
+    A 2026 Electronics and Telecommunications graduate of the <a href="https://www.hcmus.edu.vn/" target="_blank">University of Science, VNU-HCM</a>,
+    building full-stack web applications with React, Django, REST APIs, and cloud deployment.
+    I enjoy turning practical problems into reliable, user-focused software.
   </p>
   <p>
     🚀 Actively seeking challenging internship or entry-level opportunities to contribute to innovative web projects and grow professionally.
@@ -110,41 +110,35 @@ Here's a glimpse of the technologies I work with and am continuously mastering:
 
 ### 🏆 Achievements & Milestones
 
-*   🌟 **Top 10 Finalist - AI Challenge 2024**
-    *   Spearheaded the development of an innovative **Multi-modal Video Retrieval System** (text, image, audio queries).
-    *   Engineered the system leveraging cutting-edge deep learning models and high-performance vector databases (including Milvus) to ensure rapid and precise content-based video search.
-    *   Developed a responsive user interface and robust backend API support for the competition using **ReactJS** and **FastAPI**.
-    *   🔗 https://github.com/trandiepp2105/AIC-2024
+* **Encouragement Prize — Ho Chi Minh City AI Challenge 2025**
+  * Contributed to **Lucifer-TRACE**, a multimodal video event retrieval system that achieved a score of **86/88**.
+  * Co-authored the paper *Lucifer-TRACE: Dynamic Programming and LVLM-Aided Verification for Event-Based Video Retrieval*.
+  * [View the project](https://github.com/trandiepp2105/lucifer-aic-2025)
 
 ---
 
 ### 🚀 Featured Projects
 
-I believe in learning by doing. Here are some of the projects I've worked on:
+1. **📚 [TOEIC Lab — English Learning Platform](https://github.com/trandiepp2105/toeiclab)**
+   * Built a TOEIC preparation app with topic-based vocabulary, practice for all seven parts, 120-minute mock exams, answer review, and progress tracking.
+   * **Stack:** React, SCSS, Django REST Framework, MySQL, Redis, Nginx.
+   * **Links:** [Live app](https://toeiclab.io.vn) · [Source code](https://github.com/trandiepp2105/toeiclab)
 
-1. **🛍️ Viberstore - E-commerce Platform**
-   * **Description:** A comprehensive full-stack web application designed to provide a seamless online shopping experience for fashion enthusiasts.
-   * **Key Features:** Secure user registration & authentication (OTP verification), dynamic product catalog with advanced search & filtering (Elasticsearch), intuitive shopping cart, streamlined order processing, integrated online payment gateway (VNPay), and a dedicated admin panel for store management.
-   * **My Role:** Full-stack development, from database design and API development to frontend implementation and cloud deployment.
-   * **Tech Stack:** `Django`, `ReactJS`, `MySQL`, `Redis`, `Elasticsearch`, `Docker`, `Microsoft Azure`
-   * 🔗 **GitHub:** [https://github.com/trandiepp2105/viberstore](https://github.com/trandiepp2105/viberstore)
-   * 🌐 **Live Demo:** [Link to your live demo, e.g., http://4.241.129.97:8081]
+2. **🛍️ [ViberStore — E-commerce Platform](https://github.com/trandiepp2105/viberstore)**
+   * Built a fashion storefront with JWT authentication, OTP email verification, product search, a shopping cart, order placement, and order tracking.
+   * **Stack:** React, Django, MySQL, Redis, Docker, Docker Compose, Nginx, Microsoft Azure.
+   * **Link:** [Source code](https://github.com/trandiepp2105/viberstore)
 
-2. **🎬 ViberChill - Free Movie Streaming Platform**
-   * **Description:** ViberChill is a full-stack movie streaming platform that allows users to browse and watch movies and TV series through a responsive web interface with smooth HLS playback.
-   * **Key Features:** Real-time search suggestions, filtering by genre/country/year/type, movie detail pages, episode-based watch pages, OTP-based authentication, comments and favorites, URL-based pagination, and Meilisearch-powered search with SQL fallback.
-   * **Learning Goals:** Deepen understanding of HTTP Live Streaming (HLS) in real-world deployments, including segmenting video streams, adaptive delivery, FFmpeg-based media workflows, backend search integration, and frontend playback synchronization.
-   * **Tech Stack:** `Django REST Framework`, `ReactJS`, `MySQL`, `Redis`, `Meilisearch`, `Docker`, `Docker Compose`, `Nginx`
-   * 🔗 **GitHub:** [https://github.com/trandiepp2105/viberchill](https://github.com/trandiepp2105/viberchill)
+3. **🎬 [ViberChill — Video Streaming Platform](https://github.com/trandiepp2105/viberchill)**
+   * Developed a movie streaming app with HLS playback, real-time search suggestions, advanced filters, paginated listings, OTP authentication, comments, and favorites.
+   * **Stack:** React, Django REST Framework, MySQL, Redis, Meilisearch, Docker Compose, Nginx.
+   * **Link:** [Source code](https://github.com/trandiepp2105/viberchill)
 
-3. **🔍 Lucifer Trace - Tracing / Observability Project**
-   * **Description:** Lucifer Trace is an observability-focused project built to explore request tracing, service monitoring, and system-level insight across distributed application flows.
-   * **Key Features:** Request tracing, latency inspection, service flow visibility, debugging support for multi-service communication, and trace-oriented monitoring for backend systems.
-   * **Learning Goals:** Strengthen understanding of distributed tracing, telemetry collection, request lifecycle analysis, and performance debugging in service-oriented systems.
-   * **Tech Stack:** `Python`, `Docker`, `Backend Services`, `Tracing/Observability Tooling`
-   * 🔗 **GitHub:** [https://github.com/trandiepp2105/lucifer-trace](https://github.com/trandiepp2105/lucifer-trace)
-
----
+4. **🔎 [Lucifer-TRACE — Multimodal Video Event Retrieval](https://github.com/trandiepp2105/lucifer-aic-2025)**
+   * Contributed to a system for finding video events using text, image, scene-text, and spoken-content queries, with temporal search and LVLM-assisted verification.
+   * Integrated HLS video streaming and Server-Sent Events into the web interface for the Ho Chi Minh City AI Challenge 2025.
+   * **Stack:** React, Django, MySQL, Meilisearch, Faiss, CLIP, SigLIP, Docker Compose, Nginx.
+   * **Link:** [Source code](https://github.com/trandiepp2105/lucifer-aic-2025)
 
 ---
 
