@@ -127,7 +127,7 @@ Here's a glimpse of the technologies I work with and am continuously mastering:
 2. **🛍️ [ViberStore — E-commerce Platform](https://github.com/trandiepp2105/viberstore)**
    * Built a fashion storefront with JWT authentication, OTP email verification, product search, a shopping cart, order placement, and order tracking.
    * **Stack:** React, Django, MySQL, Redis, Docker, Docker Compose, Nginx, Microsoft Azure.
-   * **Link:** [Source code](https://github.com/trandiepp2105/viberstore)
+   * **Links:** [Live app](http://3.25.112.142/) · [Source code](https://github.com/trandiepp2105/viberstore)
 
 3. **🎬 [ViberChill — Video Streaming Platform](https://github.com/trandiepp2105/viberchill)**
    * Developed a movie streaming app with HLS playback, real-time search suggestions, advanced filters, paginated listings, OTP authentication, comments, and favorites.
